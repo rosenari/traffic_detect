@@ -1,0 +1,5 @@
+train: /Users/soon/chicken_detection/datasets/images/train
+val: /Users/soon/chicken_detection/datasets/images/val
+
+nc: 1
+names: ['car']  # 클래스 이름 리스트
